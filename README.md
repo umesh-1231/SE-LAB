@@ -1,2 +1,2 @@
 # SE-LAB
-This is demo created by Githu
+This is demo created by Git
