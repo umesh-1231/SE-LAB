@@ -1,2 +1,2 @@
 # SE-LAB
-This is demo created by Github
+This is demo created by Git
